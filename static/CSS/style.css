@@ -11,3 +11,8 @@
     width: 100%;
     height: 40vh;
 }
+
+.container h1 {
+    text-align: center;
+    padding: 10px;
+}
